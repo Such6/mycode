@@ -19,7 +19,7 @@ git clone https://github.com/your-username/mycode.git
 3. change the present working directory
 
 ```markdown
-cd NumberFinder
+cd mycode
 ```
 
 5. Make your changes
